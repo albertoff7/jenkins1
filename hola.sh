@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hola esto es un primer mensaje"
-sleep 5
+sleep 120
 echo "Adios se acaba el mensaje"
